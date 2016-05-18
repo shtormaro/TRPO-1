@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <math.h>
 #include <stdlib.h>
-#include "bin.h"
+#include "kvadr.h"
 #include "diskr.h"
 
 

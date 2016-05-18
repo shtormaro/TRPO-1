@@ -1,7 +1,7 @@
 #include <stdlib.h>
 #include "ctest.h"
 #include "../src/diskr.h"
-#include "../src/bin.h"
+#include "../src/kvadr.h"
 
 CTEST_DATA(qwar_y)
 {
